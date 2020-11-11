@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="popular_movies_menu_item">Popular Movies</string>
+    <string name="TopRate_movies_menu_item">TopRate Movies</string>
+    <string name="plot_synopsis">Plot synopsis</string>
+    <string name="rate">Rating</string>
+    <string name="relase_date">Release date</string>
+    <string name="Author">Author:</string>
+    <string name="review">Review:</string>
+    <string name="Rev">Review</string>
+    <string name="Trialaer">Trailers</string>
+    <string name="Favorite">Favorite</string>
+
+
+
+
+</resources>
